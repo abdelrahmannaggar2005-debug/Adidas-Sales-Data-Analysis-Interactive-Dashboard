@@ -1,15 +1,35 @@
 # Adidas-Sales-Data-Analysis-Interactive-Dashboard
 
-Project Overview
+Overview
 
-I built an interactive Power BI dashboard analyzing Adidas sales data from 2020–2021 across multiple retailers, regions, and product categories. Key metrics include total sales ($900M), operating profit ($332M), 2M units sold, average price ($45), and 42% margin. Visuals show monthly sales trends, regional distribution (West 30%, Northeast 20.7%), top products (Men's Street Footwear $209M), and retailer performance. Slicers for region, date, and retailer enable dynamic exploration for strategic insights.
+Interactive sales dashboard for Adidas products, tracking revenue, margins, and performance across regions, categories, and seasons using sales data from Kaggle.
 
-Skills 
+Key Features
 
--Microsoft Excel
+Geographic sales maps and category breakdowns.
 
--Microsoft Power BI
+Year-over-year comparisons and top retailer analysis.
 
--Python
+Filters for products, dates, and customer segments.
 
--Data Visualization
+Technologies Used
+
+Tableau/Power BI for dynamic dashboards.
+
+Python/Excel for data transformation.
+
+SQL for aggregations and joins.
+
+Setup Instructions
+
+Import adidas_sales.csv from /data/.
+
+Open Adidas_Dashboard.twb or .pbix.
+
+Customize slicers and publish online.
+
+Key Insights
+
+Sneakers drive 60% of revenue in North America.
+
+Emerging markets show growth potential; prioritize expansion.
