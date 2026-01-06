@@ -31,7 +31,6 @@ These enable comprehensive analysis of trends, regional shifts, retailer perform
 | **Power Query Editor** | Data transformation & cleaning |
 | **DAX (Data Analysis Expressions)** | Calculated measures and business logic |
 | **Excel / CSV** | Raw dataset storage |
-| **SQL (optional)** | Pre-processing and deep analysis |
 
 ---
 
@@ -167,6 +166,6 @@ Adidas-Sales-Data-Analysis-Interactive-Dashboard/
 For questions, feedback, or collaboration:
 
 **Name:** Abdelahman Ahmed
-**LinkedIn:** (https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-**Email:** abdelrahman.naggar2005@gmail.com
+**LinkedIn:** [Abdelrahman_LinkedIn](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+**Email:** [abdelrahman.naggar2005@gmail.com]
 
