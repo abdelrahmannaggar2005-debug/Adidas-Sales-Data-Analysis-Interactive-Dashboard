@@ -2,6 +2,8 @@
 
 ## 🧠 Project Overview
 
+<img width="1283" height="723" alt="Screenshot 2025-12-29 144341" src="https://github.com/user-attachments/assets/97573a3f-d386-4833-b391-42a931443e01" />
+
 This project presents a complete **interactive sales analysis dashboard** built for Adidas sales data. Its purpose is to enable business stakeholders to explore, interpret, and derive insight-driven decisions from large e-commerce sales datasets. The analysis includes sales trends over time, product performance, regional contributions, and profitability metrics. :contentReference[oaicite:0]{index=0}
 
 Built using **Power BI**, with intermediate processing and data preparation steps, this project demonstrates real-world analytical thinking, data transformation, and interactive visualization skills. :contentReference[oaicite:1]{index=1}
